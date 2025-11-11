@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-..Estoy en 1
+Estoy en 1 
 
 
 =======
